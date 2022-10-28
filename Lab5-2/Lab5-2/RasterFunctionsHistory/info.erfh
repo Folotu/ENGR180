@@ -1,0 +1,93 @@
+{
+  "version" : 1,
+  "name" : "Raster Functions History",
+  "historyItems" : [
+    {
+      "id" : "{7BB4D32F-56E5-4B5A-B1C9-98D7A60E5754}",
+      "type" : 1,
+      "status" : 2,
+      "name" : "Landslide_Risk",
+      "description" : "Landslide Risk Calculation for Lab5-2",
+      "rftPath" : "Landslide_Risk_{7BB4D32F-56E5-4B5A-B1C9-98D7A60E5754}.rft.xml",
+      "startTime" : "638025924970000000",
+      "endTime" : "638025925480000000",
+      "remoteJobStateInfo" : {
+        "ID" : "_lcljob",
+        "Status" : 5,
+        "ReturnValue" : "",
+        "Messages" : [
+          {
+            "Text" : "Submitted.",
+            "Type" : 0
+          },
+          {
+            "Text" : "Executing...",
+            "Type" : 0
+          },
+          {
+            "Text" : "Succeeded.",
+            "Type" : 0
+          }
+        ]
+      }
+    },
+    {
+      "id" : "{06EE2AA3-F6D6-4921-ACD4-6013560B2508}",
+      "type" : 1,
+      "status" : 2,
+      "name" : "Burn_Severity",
+      "description" : "Calculating burn severity using pre- and post- wildfire imagery",
+      "rftPath" : "Burn_Severity_{06EE2AA3-F6D6-4921-ACD4-6013560B2508}.rft.xml",
+      "startTime" : "638025743240000000",
+      "endTime" : "638025743240000000",
+      "remoteJobStateInfo" : {
+        "ID" : "_lcljob",
+        "Status" : 5,
+        "ReturnValue" : "",
+        "Messages" : [
+          {
+            "Text" : "Submitted.",
+            "Type" : 0
+          },
+          {
+            "Text" : "Executing...",
+            "Type" : 0
+          },
+          {
+            "Text" : "Succeeded.",
+            "Type" : 0
+          }
+        ]
+      }
+    },
+    {
+      "id" : "{5DD15264-5D6D-4132-AAEA-CBC9B24F086A}",
+      "type" : 1,
+      "status" : 2,
+      "name" : "RFTSlopeIndex",
+      "description" : "Slope Index Map for Lab5-2",
+      "rftPath" : "RFTSlopeIndex_{5DD15264-5D6D-4132-AAEA-CBC9B24F086A}.rft.xml",
+      "startTime" : "638025763470000000",
+      "endTime" : "638025763470000000",
+      "remoteJobStateInfo" : {
+        "ID" : "_lcljob",
+        "Status" : 5,
+        "ReturnValue" : "",
+        "Messages" : [
+          {
+            "Text" : "Submitted.",
+            "Type" : 0
+          },
+          {
+            "Text" : "Executing...",
+            "Type" : 0
+          },
+          {
+            "Text" : "Succeeded.",
+            "Type" : 0
+          }
+        ]
+      }
+    }
+  ]
+}
